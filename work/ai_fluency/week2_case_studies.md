@@ -69,7 +69,7 @@ GitHub:
 https://github.com/Vedant-Jagtap
 
 LinkedIn:
-(Add your LinkedIn profile)
+https://www.linkedin.com/in/vedant-jagtap-577-/
 
 ---
 
